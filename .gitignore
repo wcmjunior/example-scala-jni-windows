@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Ignored project files.\Debug
+Sample1DLL/ipch
+Sample1DLL/x64
+Sample1DLL/Sample1/Debug
+Sample1DLL/Sample1/x64
+*.class
